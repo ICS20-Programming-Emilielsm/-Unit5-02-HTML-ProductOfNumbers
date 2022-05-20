@@ -1,0 +1,26 @@
+body {
+	background-color: rgb(225, 217, 198);
+}
+
+h1 {
+	background-color: rgb(170, 202, 190);
+	color: hsl(20, 7%, 18%);
+	padding: 40px;
+	text-align: center;
+}
+
+p {
+	background-color: #c7d4e5;
+}
+
+div {
+	
+  font-weight: bold;
+  color: #050505;
+  margin: 5px;
+}
+
+#display-cost {
+  background-color: #449c5a;
+	font-size: 20px;
+}
